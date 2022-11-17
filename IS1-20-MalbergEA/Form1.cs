@@ -22,5 +22,10 @@ namespace IS1_20_MalbergEA
         {
 
         }
+
+        private void guna2TextBox1_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
